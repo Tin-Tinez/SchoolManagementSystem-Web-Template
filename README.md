@@ -1,4 +1,27 @@
 # SchoolManagSys.github.io
+>> LOGIN DETAILS <<
+
+Username: admin
+Password: 33742527
+
+
+DON'T FORGET TO CREATE A DATABASE NAMING "fantastic_school_admin_db" AND IMPORT THE SQL FILE TO RUN.
+WITHOUT THE DATABASE THE PROJECT WON'T RUN.
+
+DATABASE FILE IS INSIDE "database" FOLDER
+
+***** IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO CONTACT US *****  
+
+
+***** LEAVE A COMMENT IF YOU LOVED OUR WORK *****
+
+
+***** FOR MORE PROJECTS :- https://code-projects.org/ *****
+
+
+
+#THANKS FOR DOWNLOADING
+
 Features Of The Project
 About Project
 School Management System Project Is Developed Using PHP, CSS, Bootstrap, And JavaScript. Talking About The Project, It Has All The Essential Features. This Project Contains Only The Admin Side Where He/She Can CRUD And Manage Students, Fees, Teachers, Classes, Subjects, Hostels And Many More. The Admin Plays The Main Role In The Management Of The System. In This Project, All The Main Functions Are Performed From The Admin Side.
